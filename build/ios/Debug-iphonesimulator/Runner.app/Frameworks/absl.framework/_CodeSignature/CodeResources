@@ -6,11 +6,11 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		PQxwZe2qGM2RsOGvBmqioFk6AQY=
+		FUgBxYaGMGiW7rcYaFmVic5CTjU=
 		</data>
 		<key>xcprivacy.bundle/Info.plist</key>
 		<data>
-		FXiwbpBObiUXnHuqBqJXn3e+RBM=
+		8Q0hNI9DqqLW8x3wp1wOXCplQ48=
 		</data>
 		<key>xcprivacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -21,21 +21,13 @@
 	<dict>
 		<key>xcprivacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FXiwbpBObiUXnHuqBqJXn3e+RBM=
-			</data>
 			<key>hash2</key>
 			<data>
-			0GZtdLmJNwzp1eTAaTIinBJjWiaMAZmM2XMpaoVnFe0=
+			QpKkc8pOWQjwUKzctiMTKlwD78Lw/KCYVLEXIuFs5cw=
 			</data>
 		</dict>
 		<key>xcprivacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i3YpomTpJHpRGpdt+oGaesmknBg=
-			</data>
 			<key>hash2</key>
 			<data>
 			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
