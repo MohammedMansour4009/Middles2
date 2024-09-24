@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "924123493965",
+    "firebase_url": "https://waseet-743de-default-rtdb.firebaseio.com",
+    "project_id": "waseet-743de",
+    "storage_bucket": "waseet-743de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924123493965:android:62411a6054f0a060e70e04",
+        "android_client_info": {
+          "package_name": "com.mansourgroup.middles.middles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1n-OlxbDPNMJmmpXjXpczoUg0rhIlguo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

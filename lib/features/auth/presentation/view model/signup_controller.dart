@@ -15,7 +15,7 @@ class SignUpController extends GetxController {
       Get.find<AuthenticationRepository>();
   final GlobalKey<FormState> formKey = GlobalKey<FormState>();
   final TextEditingController emailController =
-      TextEditingController(text: '0778942157');
+      TextEditingController(text: '0787480770');
 
   final TextEditingController passwordController =
       TextEditingController(text: '002303');
@@ -23,17 +23,18 @@ class SignUpController extends GetxController {
 
   getAllUsers() async {
     allUsers = await _authRepo.getAllUsers();
-    print('safdgf${allUsers.length}');
+    print('TAG00 user number is =  ${allUsers.length}');
 
     update();
   }
 
   loginUser() async {
     for (UserModel user in allUsers) {
-      if (user.phoneNumber == emailController.text &&
-          user.password == passwordController.text) {
+      if (user.phoneNumber == emailController.text && user.password == passwordController.text) {
         saveUserToSharedPreferences(user);
         Get.offAll(const HomeScreenView());
+      }else{
+        print("TAG00 user not found the user is ${user.phoneNumber} ");
       }
     }
   }
