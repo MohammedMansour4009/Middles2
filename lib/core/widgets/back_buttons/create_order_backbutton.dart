@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:middles/features/orders/presentation/widgets/customer_type_section.dart';
 
 class CreateOrderBackButton extends StatelessWidget {
   const CreateOrderBackButton({super.key});
@@ -38,7 +39,7 @@ class CreateOrderBackButton extends StatelessWidget {
           SizedBox(
             width: MediaQuery.of(context).size.width * 0.1,
           ),
-          // const CustomerTypeSection(), //todo
+          const CustomerTypeSection(), //todo
         ],
       ),
     );

@@ -10,5 +10,4 @@ class Images {
   static const String productImage = 'assets/ic_create_product.png';
 
   static const String expandIcon = 'assets/ic_expand.png';
-
 }
